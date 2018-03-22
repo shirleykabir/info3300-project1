@@ -1,0 +1,50 @@
+[
+  {
+    "CITY": 8,
+    "COST_OF_LIVING_INDEX": 100
+  },
+  {
+    "CITY": 10,
+    "COST_OF_LIVING_INDEX": 97.84
+  },
+  {
+    "CITY": 12,
+    "COST_OF_LIVING_INDEX": 91.94
+  },
+  {
+    "CITY": 11,
+    "COST_OF_LIVING_INDEX": 88.04
+  },
+  {
+    "CITY": 3,
+    "COST_OF_LIVING_INDEX": 87.05
+  },
+  {
+    "CITY": 7,
+    "COST_OF_LIVING_INDEX": 86.01
+  },
+  {
+    "CITY": 9,
+    "COST_OF_LIVING_INDEX": 83.46
+  },
+  {
+    "CITY": 6,
+    "COST_OF_LIVING_INDEX": 82.3
+  },
+  {
+    "CITY": 4,
+    "COST_OF_LIVING_INDEX": 80.16
+  },
+  {
+    "CITY": 1,
+    "COST_OF_LIVING_INDEX": 74.97
+  },
+  {
+    "CITY": 2,
+    "COST_OF_LIVING_INDEX": 72.46
+  },
+  {
+    "CITY": 5,
+    "COST_OF_LIVING_INDEX": 65.94
+  }
+]

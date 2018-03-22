@@ -1,0 +1,1282 @@
+[
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 229980
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 242870
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 106620
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 62890
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 34870
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 67940
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 39040
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 253950
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 162160
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 213860
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 96130
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 113200
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 398170
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 102760
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 133490
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 427530
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 719140
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 3550
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 107310
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 126370
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 265070
+  },
+  {
+    "CITY": 6,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 313650
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 85120
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 103570
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 89380
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 22450
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 21010
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 14590
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 15700
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 45320
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 27640
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 42850
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 15950
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 22060
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 105520
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 38120
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 30560
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 96240
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 152550
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 580
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 31560
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 23690
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 26560
+  },
+  {
+    "CITY": 10,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 56110
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 193260
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 255890
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 189120
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 49000
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 47670
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 32030
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 62290
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 155330
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 63270
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 105760
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 46000
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 77480
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 208910
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 84570
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 71320
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 209650
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 323710
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 1850
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 91120
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 74340
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 39920
+  },
+  {
+    "CITY": 12,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 108190
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 39370
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 61800
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 22090
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 10620
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 3810
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 11610
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 16930
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 54460
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 15580
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 69440
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 29910
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 42100
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 108040
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 39890
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 30190
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 148800
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 209320
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 2050
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 33560
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 43280
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 42140
+  },
+  {
+    "CITY": 7,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 90730
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 166550
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 167020
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 114580
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 41020
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 12760
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 24950
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 22310
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 145470
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 36470
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 128200
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 54340
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 56580
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 238240
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 63900
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 56090
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 286430
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 401220
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 1800
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 81540
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 98050
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 140310
+  },
+  {
+    "CITY": 1,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 215540
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 276520
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 222940
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 127940
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 52790
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 21890
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 45100
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 33830
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 217200
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 47850
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 203490
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 103170
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 102810
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 300700
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 99590
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 108370
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 361940
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 568170
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 2710
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 96610
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 114330
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 239730
+  },
+  {
+    "CITY": 4,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 290920
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 161850
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 131390
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 98150
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 44700
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 33690
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 34040
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 22170
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 114680
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 31900
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 124290
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 50110
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 43780
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 143020
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 55560
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 58930
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 158450
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 258860
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 650
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 54370
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 45660
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 54350
+  },
+  {
+    "CITY": 3,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 82420
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 374140
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 442410
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 218450
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 64400
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 46130
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 119940
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 82860
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 469530
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 173710
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 353680
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 300060
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 222790
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 505400
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 217610
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 249460
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 686220
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 1077490
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 1070
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 211220
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 195470
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 188060
+  },
+  {
+    "CITY": 8,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 386390
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 39100
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 55550
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 25010
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 12740
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 8570
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 24560
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 15630
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 68320
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 11700
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 71270
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 36760
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 30870
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 77570
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 25820
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 41450
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 73710
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 148620
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 180
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 21230
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 25290
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 27540
+  },
+  {
+    "CITY": 9,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 49060
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 41370
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 59540
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 58880
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 24480
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 9080
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 10960
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 10290
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 58570
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 16370
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 44240
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 20030
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 20480
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 103130
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 28620
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 28240
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 108980
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 174130
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 1170
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 40400
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 30340
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 35280
+  },
+  {
+    "CITY": 2,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 40530
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 106100
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 147800
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 117520
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 49710
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 10130
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 18370
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 18990
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 128950
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 31450
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 124310
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 59520
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 53070
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 219030
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 66330
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 59900
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 267950
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 454190
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 2240
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 92700
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 97130
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 125610
+  },
+  {
+    "CITY": 5,
+    "OCCUPATION_FIELD": 7,
+    "TOTAL_EMPLOYMENT": 179010
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 92450
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 126780
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 121370
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 4,
+    "TOTAL_EMPLOYMENT": 51860
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 17380
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 17430
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 12900
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 5,
+    "TOTAL_EMPLOYMENT": 76860
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 73170
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 2,
+    "TOTAL_EMPLOYMENT": 32310
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 3,
+    "TOTAL_EMPLOYMENT": 28470
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 1,
+    "TOTAL_EMPLOYMENT": 149260
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 2430
+  },
+  {
+    "CITY": 11,
+    "OCCUPATION_FIELD": 6,
+    "TOTAL_EMPLOYMENT": 95860
+  }
+]
